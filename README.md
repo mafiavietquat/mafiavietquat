@@ -1,4 +1,4 @@
-![](src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPzC8W5WVO9CoUImw4HJjFUwaWMJXVFhqlQgO9dm6hpawUqtbxkViB5YDReV-SwDaNBHkJqzV90ErB4Incuo69k7CGgCQ=w1920-h975")
+![](ezgif-2-6fb995fb77.gif)
 # 💫About Me :
 I'm currently working on Capstone 1 for my college project
 
