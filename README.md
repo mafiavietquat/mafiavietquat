@@ -22,7 +22,7 @@
 <div id="header" align="center">
   <div id="badges">
     <h1>
-      :hammer_and_wrench: Languages and tools :
+      🧰: Languages and tools :
     </h1>
   </div>
   
@@ -47,7 +47,7 @@
 ---
 <div id="badges">
     <h1>
-      :strong: My Stats :
+      🦾: My Stats :
     </h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mafiavietquat&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
