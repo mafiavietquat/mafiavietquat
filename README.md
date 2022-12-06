@@ -1,4 +1,4 @@
-![](https://imgur.com/a/jb80f2J)
+![](https://i.imgur.com/TxS42rZ.mp4)
 # 💫About Me :
 I'm currently working on Capstone 1 for my college project
 
