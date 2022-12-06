@@ -1,4 +1,4 @@
-![](ezgif-2-6fb995fb77.gif)
+![](https://s4.gifyu.com/images/ezgif-2-6fb995fb77.gif)
 # 💫About Me :
 I'm currently working on Capstone 1 for my college project
 
