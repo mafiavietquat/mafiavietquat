@@ -9,12 +9,12 @@
 <div id="header" align="center">
   <div id="badges">
     <h1>
-      :woman_technologist: About me :
+      :man_technologist: About me :
     </h1>
   </div>
 
 <div>I'm Tin</div>
-<div>I'm</div>
+<div>I'm currently working on Capstone 1 which is my college project!</div>
 <div>Contact me: quochuy.4work@gmail.com</div>
  ---
  </div>
