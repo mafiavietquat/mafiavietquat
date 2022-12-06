@@ -1,4 +1,4 @@
-![](https://s4.gifyu.com/images/ezgif-2-6fb995fb77.gif)
+![](https://i.kym-cdn.com/photos/images/newsfeed/001/147/314/77d.gif)
 # 💫About Me :
 I'm currently working on Capstone 1 for my college project
 
