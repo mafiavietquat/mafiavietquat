@@ -26,19 +26,9 @@
     </h1>
   </div>
   
-<div id="header" align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    
-    
-    
-    
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
@@ -62,5 +52,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafiavietquat&show_icons=true&theme=blue-green)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafiavietquat&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafiavietquat&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </div>
