@@ -1,4 +1,4 @@
-![](https://im.ezgif.com/tmp/ezgif-1-a58d419f51.gif)
+![](https://imgur.com/a/jb80f2J)
 # 💫About Me :
 I'm currently working on Capstone 1 for my college project
 
